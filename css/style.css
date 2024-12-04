@@ -133,6 +133,12 @@ p {
   background-color: black;
 }
 
+.contact-image{
+  position: absolute;
+  top: 0;
+  right: -250px;
+}
+
 /* footer */
 
 
