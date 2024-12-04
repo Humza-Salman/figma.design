@@ -1,3 +1,27 @@
+@media only screen and (max-width: 1024px){
+    .mycoloum{
+        width: 100%;
+        text-align: center;
+      }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 540px) {
     .image-box  {
         margin-top: 30px;
@@ -6,4 +30,14 @@
     .brand-logos > div {
         margin-top: 25px;
     }
+
+    .mycoloum{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 10px;
+    }
 }
+
+

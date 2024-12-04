@@ -32,5 +32,65 @@
   .brand-logos > div > img {
       filter: grayscale(1);
   }
+
+  .mycoloum{
+    width: 60%;
+    text-align: center;
+  }
   
   
+.services{
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #B9FF66;
+    color: #000;
+    border-radius: 0.5rem;
+}
+p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.card {
+  overflow: hidden;
+}
+
+.card a {
+  color: #000;
+  font-weight: bold;
+}
+
+.card img {
+  max-height: 100px;
+  object-fit: contain;
+}
+
+.mycolor{
+  background-color: #B9FF66;
+}
+
+.mycolor-1{
+  background-color: white;
+}
+
+.marg{
+  margin-top: 90px;
+}
+
+.myAccordion{
+ margin-top: 30px;
+}
+
+.myAccordion-first{
+   background-color: #B9FF66 !important; 
+}
+
+.colorgray{
+  background-color: #F3F3F3;
+}
