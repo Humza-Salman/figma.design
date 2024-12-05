@@ -7,7 +7,23 @@
       .contact-image{
        display: none; 
       }
+
+      .myrow{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
       
+      .mybuttons{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+      }
+
+      .myrow{
+        width: 100%;
+      }
 }
 
 
@@ -42,6 +58,14 @@
         align-items: center;
         text-align: center;
         gap: 10px;
+    }
+
+    .email{
+      width: 100%;
+    }
+
+    .news{
+      width: 100%;
     }
 }
 
