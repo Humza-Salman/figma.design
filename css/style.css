@@ -146,3 +146,24 @@ p {
   background-color: #191A23;
   padding: 20px;
 }
+
+.mybuttons{
+  background-color: #292A32;
+}
+
+.email{
+  background-color: #292A32;
+  color: white;
+  width: 10rem;
+  height: 3rem;
+  border-radius: 1rem;
+  border: 1px solid white;
+}
+.news{
+  background-color: #B9FF66;
+  color: black;
+  width: 10rem;
+  height: 3rem;
+  border-radius: 1rem;
+  border: 1px solid white;
+}
